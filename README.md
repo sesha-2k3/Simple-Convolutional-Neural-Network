@@ -12,3 +12,6 @@ This repository contains my code for a simple Convolutional Neural Network built
 
 This repository contains my implementation of Convolutional Neural Network using TensorFlow framework.
 The model classifies whether the given image is a car or bike.
+
+The link to the dataset that I used :
+https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset
