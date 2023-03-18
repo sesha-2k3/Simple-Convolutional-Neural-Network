@@ -11,7 +11,7 @@ This repository contains my code for a simple Convolutional Neural Network built
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 This repository contains my implementation of Convolutional Neural Network using TensorFlow framework.
-The model classifies whether the given image is a car or bike.
+This model classifies whether the given image is a car or bike.
 
 The link to the dataset that I used :
 https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset
